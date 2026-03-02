@@ -10,8 +10,8 @@
     "created_at": "2026-03-02",
     "likes": 12,
     "icon_url": "https://placehold.co/400x160/3b82f6/ffffff?text=Code+Reviewer",
-    "download_url": "https://raw.githubusercontent.com/opensquad-ai/opensquad-skills/main/code_reviewer_lite.zip",
-    "homepage": "https://github.com/opensquad-ai/opensquad-skills"
+    "download_url": "https://raw.githubusercontent.com/qiuhuarui999/opensquad_store/main/skills/code_reviewer_lite.zip",
+    "homepage": "https://github.com/qiuhuarui999/opensquad_store"
   },
   {
     "id": "api_tester",
@@ -24,8 +24,8 @@
     "created_at": "2026-03-02",
     "likes": 9,
     "icon_url": "https://placehold.co/400x160/0ea5e9/ffffff?text=API+Tester",
-    "download_url": "https://raw.githubusercontent.com/opensquad-ai/opensquad-skills/main/api_tester.zip",
-    "homepage": "https://github.com/opensquad-ai/opensquad-skills"
+    "download_url": "https://raw.githubusercontent.com/qiuhuarui999/opensquad_store/main/skills/api_tester.zip",
+    "homepage": "https://github.com/qiuhuarui999/opensquad_store"
   },
   {
     "id": "git_helper",
@@ -38,7 +38,7 @@
     "created_at": "2026-03-02",
     "likes": 15,
     "icon_url": "https://placehold.co/400x160/6366f1/ffffff?text=Git+Helper",
-    "download_url": "https://raw.githubusercontent.com/opensquad-ai/opensquad-skills/main/git_helper.zip",
-    "homepage": "https://github.com/opensquad-ai/opensquad-skills"
+    "download_url": "https://raw.githubusercontent.com/qiuhuarui999/opensquad_store/main/skills/git_helper.zip",
+    "homepage": "https://github.com/qiuhuarui999/opensquad_store"
   }
 ]
