@@ -1,0 +1,44 @@
+[
+  {
+    "id": "code_reviewer_lite",
+    "name": "代码审查助手",
+    "version": "1.0.0",
+    "author": "OpenSquad",
+    "description": "轻量代码审查技能，自动检测常见代码坏味道、圈复杂度估算和 TODO/FIXME 追踪，支持 Python 和 TypeScript，无需外部服务。",
+    "tags": ["code-review", "quality", "python", "typescript", "lint"],
+    "category": "dev",
+    "created_at": "2026-03-02",
+    "likes": 12,
+    "icon_url": null,
+    "download_url": "https://raw.githubusercontent.com/opensquad-ai/opensquad-skills/main/code_reviewer_lite.zip",
+    "homepage": "https://github.com/opensquad-ai/opensquad-skills"
+  },
+  {
+    "id": "api_tester",
+    "name": "API 接口测试",
+    "version": "1.0.0",
+    "author": "OpenSquad",
+    "description": "HTTP 接口测试技能，支持发送请求、断言响应、加载 JSON 测试套件文件批量执行，内置模板变量替换，适用于开发联调和回归测试。",
+    "tags": ["api", "testing", "http", "regression", "integration"],
+    "category": "dev",
+    "created_at": "2026-03-02",
+    "likes": 9,
+    "icon_url": null,
+    "download_url": "https://raw.githubusercontent.com/opensquad-ai/opensquad-skills/main/api_tester.zip",
+    "homepage": "https://github.com/opensquad-ai/opensquad-skills"
+  },
+  {
+    "id": "git_helper",
+    "name": "Git 工作流助手",
+    "version": "1.0.0",
+    "author": "OpenSquad",
+    "description": "只读 Git 工具集，提供工作区状态查询、差异分析、提交历史浏览、分支管理信息，帮助 agent 在执行任务前充分理解代码库状态。",
+    "tags": ["git", "vcs", "workflow", "readonly", "diff"],
+    "category": "dev",
+    "created_at": "2026-03-02",
+    "likes": 15,
+    "icon_url": null,
+    "download_url": "https://raw.githubusercontent.com/opensquad-ai/opensquad-skills/main/git_helper.zip",
+    "homepage": "https://github.com/opensquad-ai/opensquad-skills"
+  }
+]
