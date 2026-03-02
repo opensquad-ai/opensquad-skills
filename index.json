@@ -9,7 +9,7 @@
     "category": "dev",
     "created_at": "2026-03-02",
     "likes": 12,
-    "icon_url": "https://placehold.co/400x160/3b82f6/ffffff?text=Code+Reviewer",
+    "icon_url": "https://raw.githubusercontent.com/qiuhuarui999/opensquad_store/main/skills/code_reviewer_lite/icon.svg",
     "download_url": "https://raw.githubusercontent.com/qiuhuarui999/opensquad_store/main/skills/code_reviewer_lite.zip",
     "homepage": "https://github.com/qiuhuarui999/opensquad_store"
   },
@@ -23,7 +23,7 @@
     "category": "dev",
     "created_at": "2026-03-02",
     "likes": 9,
-    "icon_url": "https://placehold.co/400x160/0ea5e9/ffffff?text=API+Tester",
+    "icon_url": "https://raw.githubusercontent.com/qiuhuarui999/opensquad_store/main/skills/api_tester/icon.svg",
     "download_url": "https://raw.githubusercontent.com/qiuhuarui999/opensquad_store/main/skills/api_tester.zip",
     "homepage": "https://github.com/qiuhuarui999/opensquad_store"
   },
@@ -37,7 +37,7 @@
     "category": "dev",
     "created_at": "2026-03-02",
     "likes": 15,
-    "icon_url": "https://placehold.co/400x160/6366f1/ffffff?text=Git+Helper",
+    "icon_url": "https://raw.githubusercontent.com/qiuhuarui999/opensquad_store/main/skills/git_helper/icon.svg",
     "download_url": "https://raw.githubusercontent.com/qiuhuarui999/opensquad_store/main/skills/git_helper.zip",
     "homepage": "https://github.com/qiuhuarui999/opensquad_store"
   }
